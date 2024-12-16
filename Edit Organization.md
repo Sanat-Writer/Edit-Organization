@@ -1,10 +1,12 @@
-
 ## 1.1.	Edit Organization 
   
 **Path:** Organizations  
   
   
 After accessing a specific organization, the user can view various options and sections that display the key information defining the organization's specifications. To modify or edit the organization, the user must navigate through several sub-categories. They are: 
+
+![Edit Organization](C:\Users\Sanat Kumar\OneDrive\Desktop\Pickeball Project\Git Hub\Organizations\Edit Organizations\Edit Organization.png)
+
 
 
 
